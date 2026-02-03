@@ -1,0 +1,32 @@
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+.mvn/
+mvnw
+mvnw.cmd
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+RestaurentManagement_BE/target/
+RestaurentManagement_BE/src/main/resources/application.properties
+
+# Node / React
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+coverage/
+npm-debug.log
+yarn-error.log
+RestaurentManagement_FE/node_modules/
+RestaurentManagement_FE/build/
+RestaurentManagement_FE/dist/
+
+# System
+Thumbs.db
